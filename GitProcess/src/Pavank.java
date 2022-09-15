@@ -6,6 +6,7 @@ public class Pavank {
       System.out.println("PavanKalyan");
       System.out.println("PavanKalyan");
       System.out.println("PavanKalyan");
+      System.out.println("Pavan");
 	}
 
 }
